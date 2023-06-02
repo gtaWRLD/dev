@@ -1,0 +1,19 @@
+{
+        "Objects": [
+                {
+                        "name": "Land_Mil_Fortified_Nest_Watchtower",
+                        "pos": [
+                                ,
+                                107.73682403564453,
+                                
+                        ],
+                        "ypr": [
+                                0.0,
+                                0.0,
+                                0.0
+                        ],
+                        "scale": 1
+                        "enableCEPersistency": true
+                }
+        ]
+}
